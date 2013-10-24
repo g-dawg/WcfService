@@ -7,8 +7,8 @@
     <ProjectGuid>{1E2CDCB9-ED8D-4613-A89E-BCFD37938DA2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WcfServiceConsoleHost</RootNamespace>
-    <AssemblyName>WcfServiceConsoleHost</AssemblyName>
+    <RootNamespace>NetTcpConsoleHost</RootNamespace>
+    <AssemblyName>NetTcpConsoleHost</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

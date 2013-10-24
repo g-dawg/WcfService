@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceLibrary1", "WcfServiceLibrary1\WcfServiceLibrary1.csproj", "{9D08D0FD-EB54-411B-81A5-C4A2E4B1E3E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceConsoleHost", "WcfServiceConsoleHost\WcfServiceConsoleHost.csproj", "{1E2CDCB9-ED8D-4613-A89E-BCFD37938DA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetTcpConsoleHost", "WcfServiceConsoleHost\NetTcpConsoleHost.csproj", "{1E2CDCB9-ED8D-4613-A89E-BCFD37938DA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

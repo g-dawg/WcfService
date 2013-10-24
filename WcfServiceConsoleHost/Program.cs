@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.ServiceModel;
 using System.ServiceModel.Description;
-namespace FirstWcfServiceHostConsoleApp
+namespace NetTcpConsoleHost
 {
     class Program
     {
